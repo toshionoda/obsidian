@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"43f3264c2c36c43e","type":"group","x":-120,"y":-220,"width":440,"height":589,"label":"AIデータベース"},
+		{"id":"bb0d2ea073b44642","type":"group","x":-520,"y":-58,"width":290,"height":265,"label":"input（非構造化データ）"},
+		{"id":"c7eedbf072bf1d5b","type":"group","x":400,"y":-57,"width":290,"height":264,"label":"output"},
+		{"id":"869276cb65284226","type":"text","text":"打ち合わせ資料・音声","x":-500,"y":-38,"width":250,"height":60},
+		{"id":"2120fdb7d870070b","type":"text","text":"構造計算書","x":-500,"y":45,"width":250,"height":60},
+		{"id":"593d7b763ae418bc","type":"text","text":"図面","x":-500,"y":127,"width":250,"height":60,"color":"1"},
+		{"id":"8fd8dc0c7e181de9","type":"text","text":"3dモデル？？？","x":-500,"y":260,"width":250,"height":60,"color":"1"},
+		{"id":"55a10d9f5eb68f0a","type":"file","file":"ベクトルデータベース.png","x":-100,"y":-160,"width":400,"height":225},
+		{"id":"22f6475275e98ab4","type":"file","file":"Graphデータベース.png","x":-100,"y":120,"width":400,"height":225},
+		{"id":"a1255d9df17bac38","type":"text","text":"3dモデル＋属性情報","x":420,"y":-38,"width":250,"height":60},
+		{"id":"29480840c50b1087","type":"text","text":"報告書","x":420,"y":45,"width":250,"height":60},
+		{"id":"c750de9723d92422","type":"text","text":"図面","x":420,"y":132,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"180382c856399fd6","fromNode":"869276cb65284226","fromSide":"right","toNode":"43f3264c2c36c43e","toSide":"left"},
+		{"id":"3993f3868074ee5b","fromNode":"2120fdb7d870070b","fromSide":"right","toNode":"43f3264c2c36c43e","toSide":"left"},
+		{"id":"016aeed626c59b5a","fromNode":"593d7b763ae418bc","fromSide":"right","toNode":"43f3264c2c36c43e","toSide":"left"},
+		{"id":"0dd8514957153753","fromNode":"43f3264c2c36c43e","fromSide":"right","toNode":"c7eedbf072bf1d5b","toSide":"left"},
+		{"id":"18d963d2dab4b0a0","fromNode":"8fd8dc0c7e181de9","fromSide":"right","toNode":"43f3264c2c36c43e","toSide":"left"}
+	]
+}

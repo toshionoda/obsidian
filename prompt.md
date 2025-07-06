@@ -1,0 +1,4 @@
+- tab8「テキスト解析→phash解析」を作成する
+- テキスト解析：azure ocr
+- docker接続→pythonファイル→返す
+- 谷千代園児にやりgぬ

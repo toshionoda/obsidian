@@ -1,0 +1,74 @@
+{
+  "id": "36d6817b-c490-4eba-bf58-0310ebb263ef",
+  "title": "どんな記事が多い？",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "dairyから、作者はどんなことを考えている？",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\ndairyから、作者はどんなことを考えている？\n\n"
+        }
+      ],
+      "id": "d26edeb8-d72e-4538-8345-2f228dcf0698",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "dairy/2025-04-01.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "ファイルの内容から考えると、作者は以下のことを考えていると推測できます：\n\n1. 日々のタスク管理をしている（今日やること、今日やり遂げること、今月やり遂げることをリスト化）\n2. 仕事関連のプロジェクトに取り組んでいる（山口さんからのインプット、動線決め、ヒアリング整理）\n3. おそらく設計や計画に関わる仕事をしている（右側の動線決め、ジャーニーマップ、図面AI）\n4. 日本語を使用している\n\n具体的には、ある設計プロジェクト（建築や UI/UX など）において、動線の決定や関係者からのヒアリング情報の整理、そしてAIを使った図面作成といった作業に取り組んでいるようです。",
+      "id": "43e53235-679a-436a-b794-e08c01c67e1f",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 603,
+          "completion_tokens": 259,
+          "total_tokens": 862
+        },
+        "model": {
+          "providerType": "anthropic",
+          "providerId": "anthropic",
+          "id": "claude-3.7-sonnet",
+          "model": "claude-3-7-sonnet-latest"
+        }
+      }
+    }
+  ],
+  "createdAt": 1743607528476,
+  "updatedAt": 1743608669853,
+  "schemaVersion": 1
+}

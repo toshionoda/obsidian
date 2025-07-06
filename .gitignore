@@ -1,0 +1,12 @@
+# Obsidian設定ファイル（API Keyを含む）
+.obsidian/plugins/smart-composer/data.json
+
+# macOSファイル
+.DS_Store
+
+# 一時ファイル
+*.tmp
+*.temp
+
+# ログファイル
+*.log 
