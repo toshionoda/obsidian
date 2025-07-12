@@ -9,7 +9,7 @@ description:
 tags:
   - "clippings"
 ---
-[tech](https://zenn.dev/tech-or-idea)
+gttfrdeedswa[tech](https://zenn.dev/tech-or-idea)
 
 AI活用、特に自社データを使った生成AIの実現において、RAG（Retrieval-Augmented Generation）はもはや標準的なアプローチになりました。  
 しかし、いざRAGを構築しようとすると、多くの開発者が共通の課題に直面します。

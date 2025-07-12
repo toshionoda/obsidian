@@ -28,9 +28,9 @@
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
-  "gitDir": "",
+  "gitDir": "https://github.com/toshionoda/obsidian.git",
   "showFileMenu": true,
-  "authorInHistoryView": "full",
+  "authorInHistoryView": "hide",
   "dateInHistoryView": true,
   "diffStyle": "split",
   "lineAuthor": {
