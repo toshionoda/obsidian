@@ -1,0 +1,8 @@
+{
+  "amazonRegion": "japan",
+  "highlightsFolder": "/",
+  "lastSyncMode": "amazon",
+  "isLoggedIn": true,
+  "syncOnBoot": false,
+  "downloadBookMetadata": true
+}

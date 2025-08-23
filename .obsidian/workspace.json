@@ -55,28 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ブラジルデジタルツイン.md",
+                "file": "西田文郎-No.2理論 ──最も大切な成功法則.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ブラジルデジタルツイン"
-            }
-          },
-          {
-            "id": "26b801697fb4893f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "title": "西田文郎-No.2理論 ──最も大切な成功法則"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ブラジルデジタルツイン.md",
+                "file": "西田文郎-No.2理論 ──最も大切な成功法則.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ブラジルデジタルツインのアウトライン"
+              "title": "西田文郎-No.2理論 ──最も大切な成功法則のアウトライン"
             }
           },
           {
@@ -235,39 +223,42 @@
       "audio-recorder:録音の開始/停止": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "smart-composer:Open smart composer": false
+      "smart-composer:Open smart composer": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "26b801697fb4893f",
+  "active": "23f57ccdaa745b72",
   "lastOpenFiles": [
-    "英語・野田.md",
+    "敦子-これからのAI、正しい付き合い方と使い方　「共同知能」と共生するためのヒント.md",
+    "kindle/アービンジャー・インスティチュート、冨永星、金森重樹-自分の小さな「箱」から脱出する方法～人間関係のパターンを変えれば、うまくいく！.md",
+    "kindle/和夫-生き方.md",
+    "kindle",
+    "武田所長-スモールビジネスの教科書.md",
     "ブラジルデジタルツイン.md",
-    "civilinkにおけるカスタマーサクセス.md",
-    "整理　河川構造物効率化.md",
+    "弘樹-社会を変えたい人のためのソーシャルビジネス入門 PHP新書.md",
+    "神田昌典-非常識な成功法則【新装版】.md",
+    "舞田竜宣、杉山尚子-行動分析学マネジメント-人と組織を変える方法論.md",
+    "正-プロフェッショナルマネジャー 　～58四半期連続増益の男.md",
+    "kindle/玲-テクノ・リバタリアン　世界を変える唯一の思想.md",
+    "kindle/エイミー・Ｃ・エドモンドソン、野津智子-チームが機能するとはどういうことか ― 「学習力」と「実行力」を高める実践アプローチ.md",
+    "kindle/玲-幸福の「資本」論――あなたの未来を決める「３つの資本」と「８つの人生パターン」.md",
+    "水野　学、山口　周-世界観をつくる　「感性×知性」の仕事術.md",
+    "斉藤徹-だから僕たちは、組織を変えていける ――やる気に満ちた「やさしいチーム」のつくりかた【ビジネス書グランプリ2023「マネジメント部門賞」受賞！】.md",
+    "Dillon、櫻井祐子-イノベーション・オブ・ライフ　ハーバード・ビジネススクールを巣立つ君たちへ.md",
+    "橘玲-スピリチュアルズ　「わたし」の謎.md",
+    "石井ゆかり-3年の星占い 双子座 2024年‐2026年.md",
+    "よし子、ティム・マクリーン-新版 エニアグラム【基礎編】　自分を知る９つのタイプ.md",
+    "まゆみ-ザ・ミッション.md",
+    "石井ゆかり-3年の星占い 獅子座 2024年‐2026年.md",
+    "プロコン-スモールビジネス起業の教科書_Webサービス事業編.md",
+    "kindle/ジェームズ・アレン-「原因」と「結果」の法則2.md",
+    "石井ゆかり-星栞 2024年の星占い 獅子座 【電子限定おまけ《マニアック解説》付き】.md",
+    "修造-逆張り思考　戦わずに圧倒的に勝つ人生戦略.md",
+    "西田文郎-No.2理論 ──最も大切な成功法則.md",
+    "kindle/トニー-ナンバー２こそ自分の為に生きろ！.md",
+    "無題のファイル.base",
     "Pasted image 20250715063421.png",
     "Pasted image 20250715063302.png",
-    "LLMに関するメモ.md",
-    "malmeIPO.md",
-    "dairy/2025-07-12.md",
-    "Clippings/B2Bでカスタマージャーニーマップを作るときに、試してほしい５つのこと｜東芝 UIデザイン.md",
-    "Clippings/Attention, Please! Revisiting Attentive Probing for Masked Image Modeling.md",
-    "Clippings/ANN：Agentic Neural Network - マルチエージェント構築自動化手法.md",
-    "Clippings/RAGの精度が出ない...は卒業。グラフDBで 文脈の時系列 を捉える高機能RAGバックエンド「local-RAG-backend」.md",
-    "Clippings/メモ管理は Obsidian in  Cursor が最強｜松濤Vimmer.md",
-    "Clippings/ユーザー体験（UX）を向上させる画面とフロー図の作り方とは？ウェビナーレポート.md",
-    "Clippings/Claude Code SDK 徹底解説ガイド.md",
-    "Clippings/単なるメモから知的資産へ：Obsidian in Cursorで構築する知的生産システム｜松濤Vimmer.md",
-    "Clippings/EmbodiedGen Towards a Generative 3D World Engine for Embodied Intelligence.md",
-    "dairy/2025-03-13.md",
-    "dairy/2025-05-28.md",
-    "dairy/2025-06-08.md",
-    "dairy/diary-templete.md",
-    "dairy/無題のファイル.md",
-    "dairy/2025-05-15.md",
-    "dairy/2025-05-16.md",
-    "dairy/2025-05-20.md",
-    "dairy/2025-05-23.md",
-    "dairy/2025-05-24.md",
     "database",
     "無題のフォルダ",
     "Pasted image 20250427234816.png",
@@ -284,8 +275,6 @@
     "bimcim将来系.canvas",
     "Recording 20250316095658.m4a",
     "グラフデータベース.png",
-    "dairy",
-    "malme",
-    "civilink"
+    "dairy"
   ]
 }
