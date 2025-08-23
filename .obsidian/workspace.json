@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "ブラジルデジタルツイン"
             }
+          },
+          {
+            "id": "26b801697fb4893f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -213,6 +225,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -225,7 +238,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "23f57ccdaa745b72",
+  "active": "26b801697fb4893f",
   "lastOpenFiles": [
     "英語・野田.md",
     "ブラジルデジタルツイン.md",
