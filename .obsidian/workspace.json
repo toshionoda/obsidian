@@ -67,12 +67,14 @@
             "id": "9241a74c95e01092",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "civilink/cto gptからのアドバイス.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "cto gptからのアドバイス"
             }
           }
         ],
@@ -109,7 +111,7 @@
               "type": "search",
               "state": {
                 "query": "カスタマーサクセス",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -134,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 484.5
   },
   "right": {
     "id": "10b337f2f7657cad",
@@ -198,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kindle/ニック・メータ、ダン・スタインマン、リンカーン・マーフィー、バーチャレクス・コンサルティング-カスタマーサクセス――サブスクリプション時代に求められる「顧客の成功」10の原則.md",
+                "file": "civilink/cto gptからのアドバイス.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ニック・メータ、ダン・スタインマン、リンカーン・マーフィー、バーチャレクス・コンサルティング-カスタマーサクセス――サブスクリプション時代に求められる「顧客の成功」10の原則のアウトライン"
+              "title": "cto gptからのアドバイスのアウトライン"
             }
           },
           {
@@ -245,6 +247,9 @@
     "kindle/ニック・メータ、ダン・スタインマン、リンカーン・マーフィー、バーチャレクス・コンサルティング-カスタマーサクセス――サブスクリプション時代に求められる「顧客の成功」10の原則.md",
     "civilink/civilink差別化提案-chatgpt.md",
     "civilinkにおけるカスタマーサクセス.md",
+    "無題のファイル 2.base",
+    "無題のファイル.canvas",
+    "無題のファイル 1.base",
     "西田文郎-No.2理論 ──最も大切な成功法則.md",
     "敦子-これからのAI、正しい付き合い方と使い方　「共同知能」と共生するためのヒント.md",
     "kindle/アービンジャー・インスティチュート、冨永星、金森重樹-自分の小さな「箱」から脱出する方法～人間関係のパターンを変えれば、うまくいく！.md",
@@ -268,7 +273,6 @@
     "まゆみ-ザ・ミッション.md",
     "石井ゆかり-3年の星占い 獅子座 2024年‐2026年.md",
     "プロコン-スモールビジネス起業の教科書_Webサービス事業編.md",
-    "kindle/ジェームズ・アレン-「原因」と「結果」の法則2.md",
     "無題のファイル.base",
     "Pasted image 20250715063421.png",
     "Pasted image 20250715063302.png",
@@ -286,8 +290,6 @@
     "渡辺通1丁目.m4a",
     "ベクトルデータベース.png",
     "bimcim将来系.canvas",
-    "Recording 20250316095658.m4a",
-    "グラフデータベース.png",
-    "dairy"
+    "グラフデータベース.png"
   ]
 }
