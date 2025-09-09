@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "ニック・メータ、ダン・スタインマン、リンカーン・マーフィー、バーチャレクス・コンサルティング-カスタマーサクセス――サブスクリプション時代に求められる「顧客の成功」10の原則"
             }
+          },
+          {
+            "id": "9241a74c95e01092",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -228,7 +240,7 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "23f57ccdaa745b72",
+  "active": "9241a74c95e01092",
   "lastOpenFiles": [
     "kindle/ニック・メータ、ダン・スタインマン、リンカーン・マーフィー、バーチャレクス・コンサルティング-カスタマーサクセス――サブスクリプション時代に求められる「顧客の成功」10の原則.md",
     "civilink/civilink差別化提案-chatgpt.md",
