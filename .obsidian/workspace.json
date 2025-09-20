@@ -11,13 +11,32 @@
             "id": "5cf8da7d7d8ad6e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "周-人生の経営戦略――自分の人生を自分で考えて生きるための戦略コンセプト２０.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "周-人生の経営戦略――自分の人生を自分で考えて生きるための戦略コンセプト２０"
+            }
+          },
+          {
+            "id": "15b22398b812c47f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "無題のファイル 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "無題のファイル 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "無題のファイル 2のアウトライン"
             }
           },
           {
@@ -179,8 +199,11 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "5cf8da7d7d8ad6e0",
+  "active": "15b22398b812c47f",
   "lastOpenFiles": [
+    "周-人生の経営戦略――自分の人生を自分で考えて生きるための戦略コンセプト２０.md",
+    "無題のファイル 2.md",
+    "斉藤徹-だから僕たちは、組織を変えていける ――やる気に満ちた「やさしいチーム」のつくりかた【ビジネス書グランプリ2023「マネジメント部門賞」受賞！】.md",
     "LLMに関するメモ.md",
     "整理　河川構造物効率化.md",
     "civilinkにおけるカスタマーサクセス.md",
@@ -206,11 +229,8 @@
     "kindle/エイミー・Ｃ・エドモンドソン、野津智子-チームが機能するとはどういうことか ― 「学習力」と「実行力」を高める実践アプローチ.md",
     "kindle/玲-幸福の「資本」論――あなたの未来を決める「３つの資本」と「８つの人生パターン」.md",
     "水野　学、山口　周-世界観をつくる　「感性×知性」の仕事術.md",
-    "斉藤徹-だから僕たちは、組織を変えていける ――やる気に満ちた「やさしいチーム」のつくりかた【ビジネス書グランプリ2023「マネジメント部門賞」受賞！】.md",
     "Dillon、櫻井祐子-イノベーション・オブ・ライフ　ハーバード・ビジネススクールを巣立つ君たちへ.md",
     "橘玲-スピリチュアルズ　「わたし」の謎.md",
-    "石井ゆかり-3年の星占い 双子座 2024年‐2026年.md",
-    "よし子、ティム・マクリーン-新版 エニアグラム【基礎編】　自分を知る９つのタイプ.md",
     "無題のファイル.base",
     "Pasted image 20250715063421.png",
     "Pasted image 20250715063302.png",
