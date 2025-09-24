@@ -11,13 +11,31 @@
             "id": "9eb687f3abf2258d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "bases",
+              "state": {
+                "file": "無題のファイル 4.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "無題のファイル 4"
+            }
+          },
+          {
+            "id": "0b6cccc33c886ee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "横尾さんヒア.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "横尾さんヒア"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "横尾さんヒア.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "横尾さんヒアのアウトライン"
             }
           },
           {
@@ -180,8 +199,14 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "9eb687f3abf2258d",
+  "active": "0b6cccc33c886ee5",
   "lastOpenFiles": [
+    "横尾さんヒア.md",
+    "無題のファイル 4.base",
+    "dairy/2025-09-24.md",
+    "無題のファイル 1.canvas",
+    "正-プロフェッショナルマネジャー 　～58四半期連続増益の男.md",
+    "無題のファイル 3.base",
     "横尾さんインタビュー.md",
     "周-人生の経営戦略――自分の人生を自分で考えて生きるための戦略コンセプト２０.md",
     "malmeIPO.md",
@@ -207,11 +232,8 @@
     "弘樹-社会を変えたい人のためのソーシャルビジネス入門 PHP新書.md",
     "神田昌典-非常識な成功法則【新装版】.md",
     "舞田竜宣、杉山尚子-行動分析学マネジメント-人と組織を変える方法論.md",
-    "正-プロフェッショナルマネジャー 　～58四半期連続増益の男.md",
     "kindle/玲-テクノ・リバタリアン　世界を変える唯一の思想.md",
     "kindle/エイミー・Ｃ・エドモンドソン、野津智子-チームが機能するとはどういうことか ― 「学習力」と「実行力」を高める実践アプローチ.md",
-    "kindle/玲-幸福の「資本」論――あなたの未来を決める「３つの資本」と「８つの人生パターン」.md",
-    "水野　学、山口　周-世界観をつくる　「感性×知性」の仕事術.md",
     "無題のファイル.base",
     "Pasted image 20250715063421.png",
     "Pasted image 20250715063302.png",
@@ -224,9 +246,7 @@
     "Pasted image 20250331105151.png",
     "malme/無題のファイル 1.canvas",
     "Clippings",
-    "要件定義",
     "Graphデータベース.png",
-    "渡辺通1丁目.m4a",
     "ベクトルデータベース.png",
     "bimcim将来系.canvas",
     "グラフデータベース.png"
