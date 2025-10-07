@@ -47,9 +47,21 @@
               "icon": "lucide-file",
               "title": "civilink振り返り"
             }
+          },
+          {
+            "id": "5ac86bc7779b0a31",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,7 +224,7 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "24268e5bf548dc95",
+  "active": "5ac86bc7779b0a31",
   "lastOpenFiles": [
     "横尾さんヒア.md",
     "civilink振り返り.md",
