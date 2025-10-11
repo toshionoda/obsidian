@@ -73,9 +73,23 @@
               "icon": "lucide-file",
               "title": "civilinkの価値"
             }
+          },
+          {
+            "id": "363707549fc86eed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "civilink テックタッチ質問.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "civilink テックタッチ質問"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -196,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "civilinkの価値.md",
+                "file": "civilink テックタッチ質問.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "civilinkの価値のアウトライン"
+              "title": "civilink テックタッチ質問のアウトライン"
             }
           },
           {
@@ -238,10 +252,11 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "b2aa27ed0671cea4",
+  "active": "363707549fc86eed",
   "lastOpenFiles": [
-    "Pasted image 20251007212631.png",
     "civilinkの価値.md",
+    "civilink テックタッチ質問.md",
+    "Pasted image 20251007212631.png",
     "横尾さんヒア.md",
     "civilink振り返り.md",
     "無題のファイル 4.base",
