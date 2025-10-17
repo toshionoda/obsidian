@@ -87,23 +87,9 @@
               "icon": "lucide-file",
               "title": "civilink テックタッチ質問"
             }
-          },
-          {
-            "id": "cb77aaed0424d49f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ウエスコ様フィどバック.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ウエスコ様フィどバック"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -224,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ウエスコ様フィどバック.md",
+                "file": "civilink テックタッチ質問.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ウエスコ様フィどバックのアウトライン"
+              "title": "civilink テックタッチ質問のアウトライン"
             }
           },
           {
@@ -266,10 +252,10 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "cb77aaed0424d49f",
+  "active": "363707549fc86eed",
   "lastOpenFiles": [
-    "civilink テックタッチ質問.md",
     "ウエスコ様フィどバック.md",
+    "civilink テックタッチ質問.md",
     "civilinkの価値.md",
     "Pasted image 20251007212631.png",
     "横尾さんヒア.md",
