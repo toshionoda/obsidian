@@ -87,9 +87,23 @@
               "icon": "lucide-file",
               "title": "civilink テックタッチ質問"
             }
+          },
+          {
+            "id": "134af9b347eb886e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "東京C 大久保氏.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "東京C 大久保氏"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b337f2f7657cad",
@@ -210,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "civilink テックタッチ質問.md",
+                "file": "東京C 大久保氏.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "civilink テックタッチ質問のアウトライン"
+              "title": "東京C 大久保氏のアウトライン"
             }
           },
           {
@@ -252,10 +267,11 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "363707549fc86eed",
+  "active": "134af9b347eb886e",
   "lastOpenFiles": [
-    "ウエスコ様フィどバック.md",
     "civilink テックタッチ質問.md",
+    "東京C 大久保氏.md",
+    "ウエスコ様フィどバック.md",
     "civilinkの価値.md",
     "Pasted image 20251007212631.png",
     "横尾さんヒア.md",
@@ -287,7 +303,6 @@
     "kindle",
     "武田所長-スモールビジネスの教科書.md",
     "ブラジルデジタルツイン.md",
-    "弘樹-社会を変えたい人のためのソーシャルビジネス入門 PHP新書.md",
     "無題のファイル.base",
     "Pasted image 20250715063421.png",
     "Pasted image 20250715063302.png",
