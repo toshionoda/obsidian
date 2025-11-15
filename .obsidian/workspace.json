@@ -92,14 +92,13 @@
             "id": "134af9b347eb886e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "東京C 大久保氏.md",
-                "mode": "source",
-                "source": false
+                "file": "無題のファイル 5.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "東京C 大久保氏"
+              "icon": "lucide-table",
+              "title": "無題のファイル 5"
             }
           }
         ],
@@ -160,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "10b337f2f7657cad",
@@ -225,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "東京C 大久保氏.md",
+                "file": "無題のファイル 5.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "東京C 大久保氏のアウトライン"
+              "title": "無題のファイル 5のアウトライン"
             }
           },
           {
@@ -243,13 +241,23 @@
               "icon": "wand-sparkles",
               "title": "Smart composer chat"
             }
+          },
+          {
+            "id": "dbe04917028a4146",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 524.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,10 +275,12 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "134af9b347eb886e",
+  "active": "26db6c1a771d7dc6",
   "lastOpenFiles": [
-    "civilink テックタッチ質問.md",
+    "move_kindle_notes.py",
+    "無題のファイル 5.base",
     "東京C 大久保氏.md",
+    "civilink テックタッチ質問.md",
     "ウエスコ様フィどバック.md",
     "civilinkの価値.md",
     "Pasted image 20251007212631.png",
@@ -302,7 +312,6 @@
     "kindle/和夫-生き方.md",
     "kindle",
     "武田所長-スモールビジネスの教科書.md",
-    "ブラジルデジタルツイン.md",
     "無題のファイル.base",
     "Pasted image 20250715063421.png",
     "Pasted image 20250715063302.png",
@@ -314,7 +323,6 @@
     "Pasted image 20250331105212.png",
     "Pasted image 20250331105151.png",
     "malme/無題のファイル 1.canvas",
-    "Clippings",
     "Graphデータベース.png",
     "ベクトルデータベース.png",
     "bimcim将来系.canvas",
