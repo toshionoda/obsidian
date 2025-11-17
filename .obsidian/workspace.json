@@ -92,13 +92,14 @@
             "id": "134af9b347eb886e",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "無題のファイル.base",
-                "viewName": "Table"
+                "file": "Clippings/ANN：Agentic Neural Network - マルチエージェント構築自動化手法.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "無題のファイル"
+              "icon": "lucide-file",
+              "title": "ANN：Agentic Neural Network - マルチエージェント構築自動化手法"
             }
           }
         ],
@@ -223,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "無題のファイル.base",
+                "file": "Clippings/ANN：Agentic Neural Network - マルチエージェント構築自動化手法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "無題のファイルのアウトライン"
+              "title": "ANN：Agentic Neural Network - マルチエージェント構築自動化手法のアウトライン"
             }
           },
           {
@@ -275,10 +276,18 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "134af9b347eb886e",
+  "active": "26db6c1a771d7dc6",
   "lastOpenFiles": [
-    "無題のファイル.canvas",
     "無題のファイル 5.base",
+    "無題のファイル 3.base",
+    "無題のファイル 2.base",
+    "無題のファイル 2.md",
+    "無題のファイル 1.base",
+    "無題のファイル 1.md",
+    "無題のファイル 1.canvas",
+    "無題のファイル.md",
+    "無題のファイル.base",
+    "無題のファイル.canvas",
     "kindle/邦威-理念経営2.0 ―― 会社の「理想と戦略」をつなぐ７つのステップ.md",
     "kindle/貢一-「原因」と「結果」の法則.md",
     "kindle/西田文郎-No.2理論 ──最も大切な成功法則.md",
@@ -301,18 +310,10 @@
     "kindle/周-人生の経営戦略――自分の人生を自分で考えて生きるための戦略コンセプト２０.md",
     "kindle/修造-逆張り思考　戦わずに圧倒的に勝つ人生戦略.md",
     "kindle/プロコン-スモールビジネス起業の教科書_Webサービス事業編.md",
-    "kindle/よし子、ティム・マクリーン-新版 エニアグラム【基礎編】　自分を知る９つのタイプ.md",
-    "kindle/まゆみ-ザ・ミッション.md",
-    "kindle/Dillon、櫻井祐子-イノベーション・オブ・ライフ　ハーバード・ビジネススクールを巣立つ君たちへ.md",
     "move_kindle_notes.py",
     "Pasted image 20251007212631.png",
-    "無題のファイル 4.base",
-    "無題のファイル 1.canvas",
-    "無題のファイル 3.base",
-    "無題のファイル 2.base",
-    "無題のファイル 1.base",
+    "ANN：Agentic Neural Network - マルチエージェント構築自動化手法.base",
     "kindle",
-    "無題のファイル.base",
     "Pasted image 20250715063421.png",
     "Pasted image 20250715063302.png",
     "database",
