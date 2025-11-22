@@ -101,9 +101,21 @@
               "icon": "lucide-file",
               "title": "ANN：Agentic Neural Network - マルチエージェント構築自動化手法"
             }
+          },
+          {
+            "id": "4ded4f2da4b7bdda",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -276,7 +288,7 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "26db6c1a771d7dc6",
+  "active": "4ded4f2da4b7bdda",
   "lastOpenFiles": [
     "無題のファイル 5.base",
     "無題のファイル 3.base",
