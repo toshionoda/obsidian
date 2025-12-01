@@ -115,17 +115,15 @@
             }
           },
           {
-            "id": "0be15b04ab98d0b7",
+            "id": "37a39322512fb125",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "無題のファイル.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.10.6"
               },
-              "icon": "lucide-file",
-              "title": "無題のファイル"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           }
         ],
@@ -302,7 +300,7 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "0be15b04ab98d0b7",
+  "active": "37a39322512fb125",
   "lastOpenFiles": [
     "無題のファイル.md",
     "無題のファイル 5.base",
