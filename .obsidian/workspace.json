@@ -11,13 +11,14 @@
             "id": "9eb687f3abf2258d",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "無題のファイル 4.base",
-                "viewName": "Table"
+                "file": "無題のファイル 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "無題のファイル 4"
+              "icon": "lucide-file",
+              "title": "無題のファイル 1"
             }
           },
           {
@@ -140,8 +141,7 @@
               "title": "Release Notes 1.10.6"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -315,10 +315,11 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "afd0d5788a117c9e",
+  "active": "9eb687f3abf2258d",
   "lastOpenFiles": [
-    "civilink振り返り.md",
+    "無題のファイル 1.md",
     "西日本技術開発.md",
+    "civilink振り返り.md",
     "無題のファイル.md",
     "無題のファイル 5.base",
     "無題のファイル 3.base",
@@ -349,7 +350,6 @@
     "kindle/周-外資系コンサルが教える　読書を仕事につなげる技術.md",
     "kindle/周-人生の経営戦略――自分の人生を自分で考えて生きるための戦略コンセプト２０.md",
     "kindle/修造-逆張り思考　戦わずに圧倒的に勝つ人生戦略.md",
-    "kindle/プロコン-スモールビジネス起業の教科書_Webサービス事業編.md",
     "move_kindle_notes.py",
     "Pasted image 20251007212631.png",
     "ANN：Agentic Neural Network - マルチエージェント構築自動化手法.base",
