@@ -25,14 +25,13 @@
             "id": "1fd652e018612923",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "dairy/2025-06-08.md",
-                "mode": "source",
-                "source": false
+                "file": "無題のファイル.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "2025-06-08"
+              "icon": "lucide-table",
+              "title": "無題のファイル"
             }
           },
           {
@@ -209,7 +208,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -332,6 +332,8 @@
   },
   "active": "1fd652e018612923",
   "lastOpenFiles": [
+    "dairy/2025-06-08.md",
+    "無題のファイル.base",
     "dairy/2025-05-28.md",
     "dairy/2025-05-24.md",
     "dairy/2025-05-23.md",
@@ -357,13 +359,11 @@
     "dairy/2025-03-14.md",
     "dairy/2025-03-13.md",
     "有償化フェーズ.md",
-    "CiviLink導入について.md",
     "無題のファイル 5.base",
     "無題のファイル 3.base",
     "無題のファイル 2.base",
     "無題のファイル 1.base",
     "無題のファイル 1.canvas",
-    "無題のファイル.base",
     "無題のファイル.canvas",
     "move_kindle_notes.py",
     "Pasted image 20251007212631.png",
