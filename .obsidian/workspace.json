@@ -22,19 +22,6 @@
             }
           },
           {
-            "id": "1fd652e018612923",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "無題のファイル.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "無題のファイル"
-            }
-          },
-          {
             "id": "0b6cccc33c886ee5",
             "type": "leaf",
             "state": {
@@ -330,10 +317,12 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "1fd652e018612923",
+  "active": "0b6cccc33c886ee5",
   "lastOpenFiles": [
-    "dairy/2025-06-08.md",
+    "dairy/2025-03-13.md",
+    "無題のファイル 1.base",
     "無題のファイル.base",
+    "dairy/2025-06-08.md",
     "dairy/2025-05-28.md",
     "dairy/2025-05-24.md",
     "dairy/2025-05-23.md",
@@ -357,12 +346,9 @@
     "dairy/2025-03-17.md",
     "dairy/2025-03-15.md",
     "dairy/2025-03-14.md",
-    "dairy/2025-03-13.md",
-    "有償化フェーズ.md",
     "無題のファイル 5.base",
     "無題のファイル 3.base",
     "無題のファイル 2.base",
-    "無題のファイル 1.base",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "move_kindle_notes.py",
