@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/無題のファイル 1.md",
+                "file": "diary/2026-01-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル 1"
+              "title": "2026-01-02"
             }
           },
           {
@@ -319,6 +319,7 @@
   "active": "0b6cccc33c886ee5",
   "lastOpenFiles": [
     "diary/無題のファイル 1.md",
+    "diary/2026-01-02.md",
     "Clippings/AI Checker for Construction Drawings & Specs.md",
     "整理内容.md",
     "Projects/Templates/無題のファイル.md",
@@ -349,7 +350,6 @@
     "Projects/ヒアリング事項.md",
     "Projects/作業依頼（n回目）へ.md",
     "Projects/図面比較について.md",
-    "Projects/整理　河川構造物効率化.md",
     "diary",
     "Scripts/move_kindle_notes.py",
     "Assets/Audio/渡辺通1丁目.m4a",
