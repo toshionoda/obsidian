@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/civilink/畑中氏アドバイス_タスクリスト.md",
+                "file": "diary/2026-01-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "畑中氏アドバイス_タスクリスト"
+              "title": "2026-01-03"
             }
           },
           {
@@ -292,8 +292,8 @@
             "state": {
               "type": "smtcmp-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "smtcmp-chat-view"
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
             }
           },
           {
@@ -302,17 +302,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 524.5,
-    "collapsed": true
+    "width": 524.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -333,8 +332,11 @@
   },
   "active": "85487811f2834b9e",
   "lastOpenFiles": [
-    "畑中氏メモ.md",
+    "diary/Templater設定方法.md",
+    "diary/diary-templete-templater.md",
+    "diary/2026-01-04.md",
     "Projects/civilink/畑中氏アドバイス_タスクリスト.md",
+    "畑中氏メモ.md",
     "Projects/civilink/畑中氏アドバイス.md",
     "diary/2026-01-03.md",
     "diary/2026-01-02.md",
@@ -362,9 +364,6 @@
     "Projects/civilink/civilink ジャーニーマップ素案.md",
     "Projects/civilink/Civilink３月までに必要な機能.md",
     "Projects/malmeIPO.md",
-    "Clients/ウエスコ様フィどバック.md",
-    "Projects/create a link.md",
-    "Projects/英語・野田.md",
     "diary",
     "Scripts/move_kindle_notes.py",
     "Assets/Audio/渡辺通1丁目.m4a",
