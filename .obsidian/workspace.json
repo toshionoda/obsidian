@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2026-01-03.md",
+                "file": "diary/2026-01-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-03"
+              "title": "2026-01-04"
             }
           },
           {
@@ -311,7 +311,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 524.5
+    "width": 524.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -332,13 +333,13 @@
   },
   "active": "85487811f2834b9e",
   "lastOpenFiles": [
+    "diary/2026-01-03.md",
+    "diary/2026-01-04.md",
     "diary/Templater設定方法.md",
     "diary/diary-templete-templater.md",
-    "diary/2026-01-04.md",
     "Projects/civilink/畑中氏アドバイス_タスクリスト.md",
     "畑中氏メモ.md",
     "Projects/civilink/畑中氏アドバイス.md",
-    "diary/2026-01-03.md",
     "diary/2026-01-02.md",
     "diary/タスク引き継ぎ方法.md",
     "diary/task-carryover-template.md",
