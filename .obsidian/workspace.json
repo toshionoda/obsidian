@@ -195,8 +195,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -317,7 +316,7 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "0b6cccc33c886ee5",
+  "active": "26db6c1a771d7dc6",
   "lastOpenFiles": [
     "dairy/2025-03-13.md",
     "無題のファイル 1.base",
