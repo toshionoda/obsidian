@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2026-01-07.md",
+                "file": "diary/2026-01-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-07"
+              "title": "2026-01-10"
             }
           },
           {
@@ -239,8 +239,9 @@
   },
   "active": "5d786adbd750f618",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "diary/2026-01-07.md",
+    "diary/2026-01-10.md",
+    "conflict-files-obsidian-git.md",
     "Projects/civilink/畑中氏アドバイス.md",
     "diary/2026-01-06.md",
     "Projects/civilink/畑中氏アドバイス_タスクリスト.md",
@@ -270,7 +271,6 @@
     "Projects/civilink/civilinkメモ.md",
     "Projects/civilink/civilinkフィードバック.md",
     "Projects/civilink/civilinkヒアリング　西日本技術開発.md",
-    "Projects/civilink/civilinkアイデアまとめ.md",
     "diary",
     "Scripts/move_kindle_notes.py",
     "Assets/Audio/渡辺通1丁目.m4a",
