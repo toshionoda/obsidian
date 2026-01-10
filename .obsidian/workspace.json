@@ -204,7 +204,7 @@
             }
           },
           {
-            "id": "dbe04917028a4146",
+            "id": "6a868db8feccb7cb",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -218,8 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {

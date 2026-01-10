@@ -2,8 +2,8 @@
   "various-complements",
   "dataview",
   "obsidian-excalidraw-plugin",
-  "obsidian-git",
   "smart-composer",
   "obsidian-kindle-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-git"
 ]
