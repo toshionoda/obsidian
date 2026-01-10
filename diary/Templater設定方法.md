@@ -54,3 +54,5 @@ Templaterの「Folder Templates」機能を使用：
 - `diary/diary-templete-templater.md` - Templater用の自動化テンプレート（作成済み）
 - `diary/diary-templete.md` - 標準テンプレート（現在使用中）
 
+
+

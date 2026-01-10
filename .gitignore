@@ -9,4 +9,7 @@
 *.temp
 
 # ログファイル
-*.log 
+*.log
+
+# Smart Composerベクターデータベース（自動生成）
+.smtcmp_vector_db.tar.gz
