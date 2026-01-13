@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2026-01-10.md",
+                "file": "diary/2026-01-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-10"
+              "title": "2026-01-13"
             }
           },
           {
@@ -239,8 +239,9 @@
   },
   "active": "5d786adbd750f618",
   "lastOpenFiles": [
-    "Clippings/The 24 Best B2B Sales Deck Examples We Could Find.md",
     "diary/2026-01-10.md",
+    "diary/2026-01-13.md",
+    "Clippings/The 24 Best B2B Sales Deck Examples We Could Find.md",
     "cursor/skills/japan-specific-requirements.md",
     "cursor/japan-specific-requirements.md",
     "cursor/skills/civilink-implementation.md",
@@ -272,7 +273,6 @@
     "References/Research/bimcim将来系.canvas",
     "References/Research/ANN：Agentic Neural Network - マルチエージェント構築自動化手法.base",
     "References/Research",
-    "Projects/civilink/機能一覧.md",
     "diary",
     "Scripts/move_kindle_notes.py",
     "Assets/Audio/渡辺通1丁目.m4a",
