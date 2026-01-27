@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jre-jrc.md",
+                "file": "diary/2026-01-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jre-jrc"
+              "title": "2026-01-28"
             }
           },
           {
@@ -268,8 +268,9 @@
   },
   "active": "49ce599e6089597f",
   "lastOpenFiles": [
-    "diary/2026-01-24.md",
     "jre-jrc.md",
+    "diary/2026-01-28.md",
+    "diary/2026-01-24.md",
     "diary/2026-01-07.md",
     "目標設定についての質問.md",
     "diary/2026-01-13.md",
@@ -295,7 +296,6 @@
     "畑中氏メモ.md",
     "diary/2026-01-02.md",
     "diary/タスク引き継ぎ方法.md",
-    "diary/task-carryover-template.md",
     "Projects/Templates/無題のファイル.base",
     "Projects/Templates/無題のファイル 1.base",
     "Projects/Templates",
