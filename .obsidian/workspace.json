@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2026-01-07.md",
+                "file": "diary/2026-02-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-07"
+              "title": "2026-02-04"
             }
           },
           {
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -280,14 +280,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5de9e651de57728e",
+  "active": "5d786adbd750f618",
   "lastOpenFiles": [
+    "diary/タスク整理_2026年1月以降.md",
+    "diary/2026-02-04.md",
+    "diary/2026-01-07.md",
     "無題のファイル.md",
     "diary/2026-01-31.md",
     "diary/2026-01-28.md",
     "diary/2026-01-24.md",
     "jre-jrc.md",
-    "diary/2026-01-07.md",
     "目標設定についての質問.md",
     "diary/2026-01-13.md",
     "diary/2026-01-21.md",
@@ -308,8 +310,6 @@
     "diary/2026-01-05.md",
     "diary/2026-01-03.md",
     "diary/Templater設定方法.md",
-    "diary/diary-templete-templater.md",
-    "畑中氏メモ.md",
     "Projects/Templates/無題のファイル.base",
     "Projects/Templates/無題のファイル 1.base",
     "Projects/Templates",
