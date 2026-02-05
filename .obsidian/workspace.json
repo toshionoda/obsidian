@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "2ee1ad5aac6c9648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "無題のファイル 1"
+            }
+          },
+          {
             "id": "17e777d1a06867d0",
             "type": "leaf",
             "state": {
@@ -106,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -280,11 +294,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5d786adbd750f618",
+  "active": "2ee1ad5aac6c9648",
   "lastOpenFiles": [
+    "diary/2026-02-04.md",
+    "無題のファイル 1.md",
     "diary/タスク整理_2026年1月以降.md",
     "diary/2026-01-13.md",
-    "diary/2026-02-04.md",
     "diary/2026-01-07.md",
     "無題のファイル.md",
     "diary/2026-01-31.md",
@@ -309,7 +324,6 @@
     "diary/2026-01-04.md",
     "diary/2026-01-05.md",
     "diary/2026-01-03.md",
-    "diary/Templater設定方法.md",
     "Projects/Templates/無題のファイル.base",
     "Projects/Templates/無題のファイル 1.base",
     "Projects/Templates",
