@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "2026-02-04"
             }
+          },
+          {
+            "id": "db5d1d6014c1e2f7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,7 +222,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26db6c1a771d7dc6",
+  "active": "db5d1d6014c1e2f7",
   "lastOpenFiles": [
     "diary/2026-01-24.md",
     "無題のファイル 1.md",
