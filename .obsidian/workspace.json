@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "2026-03-02"
             }
+          },
+          {
+            "id": "14f77558b8a42868",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "リリースノート 1.12.4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,7 +222,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "bases:新規ベースを作成": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -225,7 +237,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db5d1d6014c1e2f7",
+  "active": "14f77558b8a42868",
   "lastOpenFiles": [
     "diary/2026-02-27.md",
     "diary/2026-03-02.md",
